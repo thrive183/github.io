@@ -1,6 +1,3 @@
-# For help understanding this xrp-ledger.toml file, see:
-# https://xrpl.org/xrp-ledger-toml.html
-
 [[ISSUER]]
 address = "rEP7E8cGfx7zVAfnWxYrASBri7kybayr1h"
 name = "THRIVE"
