@@ -1,5 +1,7 @@
+# XRP Ledger Domain Verification
 [ACCOUNT]
-rEP7E8cGfx72vAfnWxYrASBri7kybayr1h
+# Replace with your actual address
+address = "rEP7E8cGfx7zVAfnWxYrASBri7kybayr1h"
 
 [[ISSUER]]
 address = "rEP7E8cGfx7zVAfnWxYrASBri7kybayr1h"
