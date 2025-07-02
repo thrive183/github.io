@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/.well-known/xrp-ledger.toml"
+  [headers.values]
+    Content-Type = "text/plain"
