@@ -1,3 +1,9 @@
+[ACCOUNTS]
+rEP7E8cGfx72vAfnWxYrASBri7kybayr1h = "My XRP Wallet"
+
+[METADATA]
+modified = 2025-07-02  # Update date
+
 [[ISSUER]]
 address = "rEP7E8cGfx7zVAfnWxYrASBri7kybayr1h"
 name = "THRIVE"
