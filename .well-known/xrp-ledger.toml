@@ -1,37 +1,29 @@
-[METADATA]
-modified = 2025-07-04T00:00:00.000Z
-expires = 2025-12-31T00:00:00.000Z
-
-[[ACCOUNT]]
-rEP7E8cGfx7zVAfnWxYrASBri7kybayr1h
-
-[[ISSUER]]
+[[ACCOUNTS]]
 address = "rEP7E8cGfx7zVAfnWxYrASBri7kybayr1h"
-name = "THRIVE"
 
-[[TOKENS]]
+[[CURRENCIES]]
 issuer = "rEP7E8cGfx7zVAfnWxYrASBri7kybayr1h"
-currency = "54485249564500000000000000000000000000"
+code = "THRIVE"
 name = "THRIVE"
 desc = "THRIVE Coin rewards users for participating, posting, commenting, and engaging. Earn coins that grow in value, creating passive income. Holders also vote on platform upgrades, shaping the future of the ecosystem."
 icon = "https://static.wixstatic.com/media/b70b06_c48a16fd7bd04800b7e96ec086daa4d6~mv2.png"
 
-[[TOKENS.WEBLINKS]]
+[[CURRENCIES.WEBLINKS]]
 url = "https://www.thrivetribes.org"
-type = "website"
+type = "info"
 title = "Official Website"
 
-[[TOKENS.WEBLINKS]]
+[[CURRENCIES.WEBLINKS]]
 url = "https://b70b06ee-2299-4273-bab2-9d7328d51211.usrfiles.com/ugd/b70b06_89afce1de18b49f78daa1f9574df2450.pdf"
 type = "whitepaper"
 title = "THRIVE Whitepaper"
 
-[[TOKENS.WEBLINKS]]
+[[CURRENCIES.WEBLINKS]]
 url = "https://www.thrivetribes.org/whitepaper"
 type = "documentation"
 title = "THRIVE Tokenomics"
 
-[[TOKENS.WEBLINKS]]
+[[CURRENCIES.WEBLINKS]]
 url = "https://x.com/thrive_tribes"
 type = "socialmedia"
 title = "X"
