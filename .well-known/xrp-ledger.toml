@@ -13,7 +13,7 @@ name = "THRIVE"
 issuer = "rEP7E8cGfx7zVAfnWxYrASBri7kybayr1h"
 currency = "54485249564500000000000000000000000000"
 name = "THRIVE"
-desc = "THRIVE Coin rewards users for participating—posting, commenting, and engaging. Earn coins that grow in value, creating passive income. Holders also vote on platform upgrades, shaping the future of the ecosystem."
+desc = "THRIVE Coin rewards users for participating, posting, commenting, and engaging. Earn coins that grow in value, creating passive income. Holders also vote on platform upgrades, shaping the future of the ecosystem."
 icon = "https://static.wixstatic.com/media/b70b06_c48a16fd7bd04800b7e96ec086daa4d6~mv2.png"
 
 [[TOKENS.WEBLINKS]]
