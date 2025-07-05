@@ -14,10 +14,10 @@ type = "info"
 title = "Official Website"
 
 [[CURRENCIES]]
-issuer = "rYourIssuerAddress"
+issuer = "rEP7E8cGfx7zVAfnWxYrASBri7kybayr1h"
 code = "THRIVE"
 name = "THRIVE"
-icon = "https://yourdomain.com/path/to/icon.png"
+icon = "https://raw.githubusercontent.com/thrive183/thrive183.github.io/refs/heads/main/thrivecoin.png"
 
 [[CURRENCIES.WEBLINKS]]
 url = "https://b70b06ee-2299-4273-bab2-9d7328d51211.usrfiles.com/ugd/b70b06_89afce1de18b49f78daa1f9574df2450.pdf"
