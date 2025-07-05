@@ -13,15 +13,16 @@ url = "https://www.thrivetribes.org"
 type = "info"
 title = "Official Website"
 
+[[CURRENCIES]]
+issuer = "rYourIssuerAddress"
+code = "THRIVE"
+name = "THRIVE"
+icon = "https://yourdomain.com/path/to/icon.png"
+
 [[CURRENCIES.WEBLINKS]]
 url = "https://b70b06ee-2299-4273-bab2-9d7328d51211.usrfiles.com/ugd/b70b06_89afce1de18b49f78daa1f9574df2450.pdf"
 type = "whitepaper"
 title = "THRIVE Whitepaper"
-
-[[CURRENCIES.WEBLINKS]]
-url = "https://www.thrivetribes.org/whitepaper"
-type = "documentation"
-title = "THRIVE Tokenomics"
 
 [[CURRENCIES.WEBLINKS]]
 url = "https://x.com/thrive_tribes"
