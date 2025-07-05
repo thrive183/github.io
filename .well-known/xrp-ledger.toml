@@ -6,7 +6,7 @@ issuer = "rEP7E8cGfx7zVAfnWxYrASBri7kybayr1h"
 code = "THRIVE"
 name = "THRIVE"
 desc = "THRIVE Coin rewards users for participating, posting, commenting, and engaging. Earn coins that grow in value, creating passive income. Holders also vote on platform upgrades, shaping the future of the ecosystem."
-icon = "https://github.com/thrive183/thrive183.github.io/raw/refs/heads/main/thrivecoin"
+icon = "https://raw.githubusercontent.com/thrive183/thrive183.github.io/refs/heads/main/thrivecoin.png"
 
 [[CURRENCIES.WEBLINKS]]
 url = "https://www.thrivetribes.org"
